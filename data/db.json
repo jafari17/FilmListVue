@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "film": "Terminator",
+      "director": "James Cameron",
+      "year": 1990,
+      "star": false,
+      "complete": true
+    },
+    {
+      "film": "The Lord of the Rings",
+      "director": "peter jackson",
+      "year": "2001",
+      "star": true,
+      "id": 2,
+      "complete": true
+    },
+    {
+      "film": "matrix",
+      "director": "Lana Wachowsk",
+      "year": "1991",
+      "star": true,
+      "id": 3
+    }
+  ]
+}
